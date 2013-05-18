@@ -3,8 +3,7 @@
 #
 # Dependencies:
 #   "jsdom": "0.2.15"
-#
-# Configuration:
+#   "underscore": "1.3.3"
 #
 # Optional Configuration:
 #   HUBOT_HTTP_INFO_IGNORE_URLS - RegEx used to exclude Urls
